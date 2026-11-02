@@ -1,0 +1,51 @@
+[
+  {
+    "file": "core_cm0.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/cmsis-core/core_cm0.h",
+    "sha256": "ac13cb645f108666a0e57c93467872660d6bc860a839f840dc870b7a5863b4bf"
+  },
+  {
+    "file": "cmsis_compiler.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/cmsis-core/cmsis_compiler.h",
+    "sha256": "b51963d271c1571ca3463654c76aa7ea50c4eac5d0a2710df10414ac64d9e0f8"
+  },
+  {
+    "file": "cmsis_gcc.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/cmsis-core/cmsis_gcc.h",
+    "sha256": "78bceb13f9552f9e7d370bd480e48e3e6c24033d70d4a6b9b930832adf8de5ba"
+  },
+  {
+    "file": "cmsis_version.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/cmsis-core/cmsis_version.h",
+    "sha256": "0ad241efa3091a4a4dd9eb52a63611b4510e0a62d9b59ec439ff41c0d54bbb3a"
+  },
+  {
+    "file": "stm32f072xb.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/stm32f0/include/stm32f072xb.h",
+    "sha256": "0d412a14345e554149dabdcbc0d64c77378e3ffca5d86aa9fb87bdf41a8a2392"
+  },
+  {
+    "file": "stm32f0xx.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/stm32f0/include/stm32f0xx.h",
+    "sha256": "d377cb71e7414ebc005e6413e6560a4e01026790b771937f071a8f2a175bf097"
+  },
+  {
+    "file": "system_stm32f0xx.h",
+    "repository": "https://github.com/Cartographer3D/katapult",
+    "commit": "4f12aa7f4c2ffc2c817d6a74cfa0c41d61fdff61",
+    "path": "lib/stm32f0/include/system_stm32f0xx.h",
+    "sha256": "16e888bf74b33ce924c90b86ad498a943c1f5e2151592eb289ec55bfbb37b588"
+  }
+]

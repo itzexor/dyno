@@ -1,0 +1,38 @@
+[dyno]
+# Bus: hardware I2C on the toolhead MCU. Verify a new speed with DYNO_STREAM_TEST.
+i2c_mcu: EBB
+i2c_bus: i2c1_PA9_PA10
+i2c_address: 42
+i2c_speed: 400000
+# ADC profile: 244, 488, 977, 1953 or 3906 SPS (nearest is used); PGA gain 1..128.
+#sample_rate: 977
+#gain: 128
+#data_directory: ~/printer_data/dyno
+
+# Excitation (volumetric flow in mm^3/s, times in seconds, wobble in mm).
+#flow_low: 2.0
+#flow_high: 12.0
+#time_low: 0.40
+#time_high: 0.30
+#cycles: 5
+#lead_time: 0.8
+#block_gap: 0.4
+#wobble: 0.05
+#accel: 1000
+#repeats: 2
+#prime: 10
+#retract: 1.0
+#max_filament: 300
+#min_z: 10
+
+# DYNO_PA_CALIBRATE: optional park position (x, y, z; z >= min_z), soak after
+# reaching temperature, heater off afterwards, extra material ranges.
+#park_position: 150, 120, 40
+#soak_time: 30
+#cooldown: True
+#temp_range_pekk: 340, 380
+
+# Acceptance.
+#min_snr: 4.0
+#max_relative_uncertainty: 0.10
+#max_drift: 0.15

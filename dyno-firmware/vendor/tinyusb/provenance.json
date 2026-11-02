@@ -1,0 +1,167 @@
+{
+  "url": "https://codeload.github.com/hathach/tinyusb/tar.gz/refs/tags/0.18.0",
+  "version": "0.18.0",
+  "archive_sha256": "e7fa1bd723213749a0362c79eaccc99e84c8adea8f0a63588c4e4812608b7aa9",
+  "files": [
+    {
+      "file": "LICENSE",
+      "sha256": "b171720e8a442e7a3957d83c62cd3299dbb29da3db534cc626f9dded0de2ca44"
+    },
+    {
+      "file": "src/class/cdc/cdc.h",
+      "sha256": "fda9b7ef8ec0eb2cd83d59e366a928253968b823bb14b09befb6b82019353cdf"
+    },
+    {
+      "file": "src/class/cdc/cdc_device.c",
+      "sha256": "4560ccdb2869a5d2dfdfbaebd50479518dd802beb56a9da188980c6796bb04f5"
+    },
+    {
+      "file": "src/class/cdc/cdc_device.h",
+      "sha256": "6ce3c03452edbddf75fb3ffeff4511e86efecc8b0651e4c583717de0566c52a6"
+    },
+    {
+      "file": "src/class/cdc/cdc_host.c",
+      "sha256": "aa415a063b3b4f2afbff482aaf18f5f4547a08cd3ac396e9ddc42da3f9d17609"
+    },
+    {
+      "file": "src/class/cdc/cdc_host.h",
+      "sha256": "c0694872a52dc5e0edc18695473e74c9bf13e4ca85f8c84d520bb2420620c3fd"
+    },
+    {
+      "file": "src/class/cdc/cdc_rndis.h",
+      "sha256": "f5fd31ee42c17b71f7459b730bde4488207ba863954318e29761538a1316e7d6"
+    },
+    {
+      "file": "src/class/cdc/cdc_rndis_host.c",
+      "sha256": "695f7ffd209b05127655c99dbd5b42410953dc28f64336f1611487e0da7bf84e"
+    },
+    {
+      "file": "src/class/cdc/cdc_rndis_host.h",
+      "sha256": "62c8c6122ce6165640300ff0cc38fd4f3d61d18cb4c4725f4276ffe42c220ce1"
+    },
+    {
+      "file": "src/class/cdc/serial/ch34x.h",
+      "sha256": "8d73509dc768adbdcb2a391d316184348738e97c35d1e4fef87fea55179d61aa"
+    },
+    {
+      "file": "src/class/cdc/serial/cp210x.h",
+      "sha256": "7fd5105911a42e48e79c80fa6587c918394e9ddbda1291e508b43e2d6bd152a8"
+    },
+    {
+      "file": "src/class/cdc/serial/ftdi_sio.h",
+      "sha256": "fba3cfacbcdb22dbe8a6f6e7b3f3b3cfb5bac8762bf1951e8ba2d2815fc05b2a"
+    },
+    {
+      "file": "src/common/tusb_common.h",
+      "sha256": "c0c7b28252306237e743f47cf93b993d1d6748bbf5c0dddc4a15ca5beb670380"
+    },
+    {
+      "file": "src/common/tusb_compiler.h",
+      "sha256": "67c0d328da1fce878e8424345927608f72bd229c75cab004ef870b8337835dfd"
+    },
+    {
+      "file": "src/common/tusb_debug.h",
+      "sha256": "8b7524672bfd66d0074ddebf7580c6c38d1fcc66aab35f7839f55f80de1b0b6f"
+    },
+    {
+      "file": "src/common/tusb_fifo.c",
+      "sha256": "15bc124f43163e9f3edb9d581ab62af05a9b4342522f0712e6b9f4ca694227f5"
+    },
+    {
+      "file": "src/common/tusb_fifo.h",
+      "sha256": "b2ffb668fb6f0dee1bb42684a340b99604440bb9d2ae7df22becf7f53467c4d9"
+    },
+    {
+      "file": "src/common/tusb_mcu.h",
+      "sha256": "16436eb8a980d8695a03cddaed144c90939f07b824a0778e1e7090d42c310a96"
+    },
+    {
+      "file": "src/common/tusb_private.h",
+      "sha256": "cc4506fcc3dfbc7434e7ac480abec7b45adb42ee08c411837a791f6e5a955d12"
+    },
+    {
+      "file": "src/common/tusb_types.h",
+      "sha256": "e1bcf0b177d2ab350432e71b63948690fcde0b2a903ac9919bd421c40441bb4d"
+    },
+    {
+      "file": "src/common/tusb_verify.h",
+      "sha256": "ce951c9250ed0183fa7e5814f5ad13af865d28b8da5bf32efdffc82728252768"
+    },
+    {
+      "file": "src/device/dcd.h",
+      "sha256": "6c1e262648c70347ce37bf086ac48fc428560464162217b808065ddaec5104a1"
+    },
+    {
+      "file": "src/device/usbd.c",
+      "sha256": "f15a6da11eca127b792bd04d3270e6ea3901b0a29c24f462d5687d63da1df6cb"
+    },
+    {
+      "file": "src/device/usbd.h",
+      "sha256": "ba2b0a19932a9ef3373e343d79a0188b78702500050b265a8b13e770c117784f"
+    },
+    {
+      "file": "src/device/usbd_control.c",
+      "sha256": "f22f7a5b833670e2736dbdbffc00d7cd081b934d54e191aafd25375ee2427ee3"
+    },
+    {
+      "file": "src/device/usbd_pvt.h",
+      "sha256": "b64096863ca06f8e10b85e1b4a185485482b3a4e05a898acf77cf5815e7e25ec"
+    },
+    {
+      "file": "src/osal/osal.h",
+      "sha256": "a8c4430e85fa638ad03100d21702ec15d854fbb9bbf342c151500e4b1bbc4af2"
+    },
+    {
+      "file": "src/osal/osal_freertos.h",
+      "sha256": "bd16aed90d5d1c0d4c8aa4c05ed240fdd042ca26d6f20d3d0911b3fd18b79ae4"
+    },
+    {
+      "file": "src/osal/osal_mynewt.h",
+      "sha256": "6374e76435ffcfd502c0f94fbee5ab33a67608a184c166a7dc2158c7d99bb183"
+    },
+    {
+      "file": "src/osal/osal_none.h",
+      "sha256": "565131db716ff4e713f151a7c5ddcd7f760c89eedae4db3b7acc327602720941"
+    },
+    {
+      "file": "src/osal/osal_pico.h",
+      "sha256": "262dea97b2e5f20a7f30e08aad0d91aa4c3cfc3df77b6d36417e2b276db9a8fd"
+    },
+    {
+      "file": "src/osal/osal_rtthread.h",
+      "sha256": "7488f7b82da072c98e717c61ec15ed0e866a3a1a67fb97c6ef7a37a11bfd37e1"
+    },
+    {
+      "file": "src/osal/osal_rtx4.h",
+      "sha256": "d81936c6a210d6b43ba6b1d4295ab7619c483624fe8b17023f6fa262263d2ff0"
+    },
+    {
+      "file": "src/portable/st/stm32_fsdev/dcd_stm32_fsdev.c",
+      "sha256": "acbeb320d70404de36c8664ee69c9e04abcbc6941eb3db150e40daddfccf534e"
+    },
+    {
+      "file": "src/portable/st/stm32_fsdev/fsdev_ch32.h",
+      "sha256": "90b507b1f83f50aa67c5a17c00ff2a768228cbd6647f52af1b664c1a83f24e9e"
+    },
+    {
+      "file": "src/portable/st/stm32_fsdev/fsdev_stm32.h",
+      "sha256": "a59f7cb2dbc418b42f775de4be3c2e1f3c19708ee5399596138389da8a141f16"
+    },
+    {
+      "file": "src/portable/st/stm32_fsdev/fsdev_type.h",
+      "sha256": "5d35751c122d2f0c5dbb7ea787d3f36f6d93ca1de0f127d0c88e7a6b6e4f1ab1"
+    },
+    {
+      "file": "src/tusb.c",
+      "sha256": "93dac601cb6976d1f1931109d59e0649d6aa876b7222c58885b77cefa671eb7e"
+    },
+    {
+      "file": "src/tusb.h",
+      "sha256": "dff6fad4682282e13f1a68fcd860099d378dbaf6674a72f8e3786def9a07e7b4"
+    },
+    {
+      "file": "src/tusb_option.h",
+      "sha256": "25557fc8407fd5844b67b2cd81a99529e4358940b94c00ca9490b70a69df4f77"
+    }
+  ]
+}
